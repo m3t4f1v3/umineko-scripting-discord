@@ -367,7 +367,7 @@
 `"...Você foi agraciado pela presença da Bruxa Dourada que viveu por mil anos, a {f:5:Beatrice}‐sama."`
 `"Eu estou muito honrada em vê‐la, {f:5:Beatrice}‐sama..."`
 `"......Por favor, perdoe a grosseria do Battler‐kun."`
-`"E‐Esse cara só é teimoso, e, bem, ele ainda não entendeu a situação em que ele está......!"`
+`"E‐Esse cara só é teimoso e, bem, ele ainda não entendeu a situação em que ele está......!"`
 `"*risos*risos*risos*...`
 ` Está tudo bem.`
 ` ......Depois de mil anos, a maioria das bruxas cansa de viver.`
@@ -637,7 +637,7 @@
 ` Mesmo a coisa mais impossível, eu vou explicar tudo como métodos "humanos"!!!`
 ` Eu vou apagar cada célula do seu ser desse mundo!!!"`
 `"Você falou bem, "Battler"...!`
-` Essa é o tipo de coisa que pode acabar com os meus mil anos de tédio!"`
+` Esse é o tipo de coisa que pode acabar com os meus mil anos de tédio!"`
 `"Vamos, explique.`
 ` Tente explicar tudo isso com aquilo que você chama de "truques humanos"!`
 ` E aprenda o quão inferiores são os humanos!!`
